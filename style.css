@@ -1,0 +1,36 @@
+p{
+    color: blue;
+    background-color: wheat;
+    padding: 10px;
+}
+.rk{
+    color: red;
+}
+body{
+    background-color: #FAA18F;
+}
+#abes{
+    font-size: 30px;
+    font-family: 'Momo Signature', cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+div {
+    align-self: center;
+    margin: 50px;
+    background-color: aqua;
+    padding: 50px;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+    border: dotted black 2px;
+}
+div h1{
+    color: green;
+    background-color: black;
+}
+div h2{
+    color: cadetblue;
+    background-color: black;
+}
