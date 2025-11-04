@@ -34,3 +34,35 @@ div h2{
     color: cadetblue;
     background-color: black;
 }
+.box1{
+    height: 200px;
+    width: 250px;
+    background-color: red;
+    margin: 10px;
+    display: inline-block;
+}
+.box2{
+    height: 100px;
+    padding: 20px;
+    width: 200px;
+    background-color: blue;
+    margin: 30px;
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin: 30px;
+    display: inline-block;
+}
+.box4{
+    height: 350px;
+    width: 150px;
+    background-color: yellow;
+    margin: 10px;
+    display: inline-block;
+    padding: 50px;
+}
