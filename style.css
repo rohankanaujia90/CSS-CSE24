@@ -1,4 +1,4 @@
-p{
+/* p{
     color: blue;
     background-color: wheat;
     padding: 10px;
@@ -57,6 +57,7 @@ div h2{
     background-color: green;
     margin: 30px;
     display: inline-block;
+    border-radius: 10px;
 }
 .box4{
     height: 350px;
@@ -64,5 +65,42 @@ div h2{
     background-color: yellow;
     margin: 10px;
     display: inline-block;
+    padding: 50px;
+} */
+
+/* h1{
+    background-color: skyblue;
+    width: 50%;
+}
+p{
+    background-color: green;
+    width: 50%;
+    font-size: large;
+} */
+.box1{
+    height: 300px;
+    width: 200px;
+    background-color: yellowgreen;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    padding: 50px;
+} 
+.box2{
+    height: 300px;
+    width: 200px;
+    background-color: #410908;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    padding: 50px;
+}
+.box3{
+    height: 300px;
+    width: 200px;
+    background-color: mediumaquamarine;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
     padding: 50px;
 }
