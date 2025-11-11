@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 200px;
+    border: 2px solid black;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.item {
+    background-color: lightblue;
+    padding: 20px;
+    border: 1px solid blue;
+    font-size: 18px;
+    width: 300px;
+}
